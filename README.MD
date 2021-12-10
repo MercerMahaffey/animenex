@@ -2,7 +2,12 @@
 [**AnimeNex**](https://animenex.netlify.app/)
 
  By, Christine Hong, Sam Davis, Emily Ye, Mercer Mahaffey
+ 
+** * **
 
+Hosted Link: https://animenexsite.netlify.app/
+
+** * ** 
 
  ## Tech Stack:
  - HTML
